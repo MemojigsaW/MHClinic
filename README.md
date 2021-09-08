@@ -1,6 +1,6 @@
 # MHClinic
 Revamp of CSC309 project  
-Need a jwt secret and MongoDB connection string in .env   
+Need jwt secret and MongoDB connection string
 
 ## Futures:
 CSS fixes  
