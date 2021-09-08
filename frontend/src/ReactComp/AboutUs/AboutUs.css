@@ -1,0 +1,20 @@
+
+  .AboutUs {
+    position: relative;
+    left: 10%;
+    color: #4352af;
+  }
+
+  #pInAboutUs {
+    width: 80%;
+    font-size: 125%;
+
+  }
+
+  #aboutBlank1 {
+    height: 5%;
+  }
+
+  #aboutBlank2 {
+    height: 90%;
+  }

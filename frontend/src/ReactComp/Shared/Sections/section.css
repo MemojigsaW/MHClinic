@@ -1,0 +1,67 @@
+.Section {
+    width: 100%;
+    height: 45vh;
+    border-bottom: 1px solid LightGray;
+    margin-top: 0.5%;
+
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: start;
+    align-content: center;
+}
+
+.LP_S_boxH{
+    position: relative;
+
+    flex:1;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: start;
+}
+
+.Header {
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 35%;
+    border-bottom: 5px solid;
+    padding-bottom: 5px;
+    color: #4352af;
+
+}
+
+
+.SecTitle {
+    margin-left: 15%;
+    min-height: 20%;
+    max-width: 80%;
+    font-size: 200%;
+    color: #4352af;
+}
+
+.SecContent {
+    margin-left: 15%;
+    max-height: 65%;
+    width: 80%;
+    color: #4352af;
+    line-height: 200%;
+}
+
+
+.SecPic {
+    position: absolute;
+    margin: auto;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    max-width: 70%;
+    max-height: 70%;
+}
+
+
+
+

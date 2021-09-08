@@ -1,0 +1,92 @@
+.section {
+    width: 100%;
+    border-bottom: 1px solid LightGray;
+    margin-top: 1%;
+
+    padding-bottom: 1%;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.GH_boxH{
+    position: relative;
+    padding: 5%;
+
+
+    flex: 1;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.secTitle {
+    margin-top: 5%;
+    margin-left: 15%;
+    max-width: 100%;
+    text-align: left;
+    font-size: 260%;
+    color: #4352af;
+}
+
+.searchBar {
+    margin-left: 15%;
+    margin-top: auto;
+}
+
+.SearchForm{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+#outlined-basic2{
+    flex:3;
+}
+
+#SearchIcon2{
+    flex:1
+}
+
+#searchImage {
+    margin: auto;
+    max-width: 100%;
+}
+
+.sourceSection {
+    width: 100%;
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+
+    border-bottom: 1px solid LightGray;
+}
+
+.sourceDetail {
+    margin-top: 2%;
+    margin-left: 15%;
+
+    color: black;
+    font-size: 100%;
+}
+
+.sourceType {
+    color: grey;
+    font-weight: 700;
+    font-size: 125%;
+}
+
+.webLink {
+    color: #4352af;
+}

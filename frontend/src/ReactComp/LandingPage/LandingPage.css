@@ -1,0 +1,187 @@
+.LP_Banner {
+    width: 100%;
+    /*min-height: 90vh;*/
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.LP_Prompt {
+    color: white;
+    margin-left: 50%;
+    font-size: 225%;
+}
+
+.LP_Banner_overlap {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.testImages {
+    /*height: 10vh;*/
+    margin-left: 50%;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+}
+
+.LP_Banner_boxH{
+    flex: 1;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.LP_Banner_boxV{
+    flex: 1;
+}
+
+.depressionImg {
+    float: right;
+    max-width: 52%;
+    margin-right: 1%;
+}
+
+.anxietyImg {
+    max-width: 51.2%;
+}
+
+.panicImg {
+    max-width: 51.2%;
+}
+
+
+.secondPrompt {
+    color: #4352af;
+    font-size: 225%;
+    margin-left: 37%;
+    margin-top: 2%;
+}
+
+.secondPrompt2 {
+    color: black;
+    font-size: 150%;
+    margin-left: 50%;
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: italic;
+}
+
+.secondSearch {
+    margin: 1% 2% 2% 50%;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+}
+
+#secondIcon {
+    transform: scale(1.6);
+}
+
+/*End of Landing Page*/
+
+.formControl {
+    width: 200px;
+    left: -400px;
+    top: 200px;
+}
+
+/************************************************************************************************************/
+
+#BetweenButtonsDiv {
+    position: relative;
+    height: 20px;
+}
+
+#GetHelpButtonDiv {
+    position: relative;
+    top: -15%;
+}
+
+.NoneStyleLi {
+    list-style: none;
+    align-items: center;
+}
+
+.LogInButton {
+    left:15%;
+    top:-5vh;
+}
+
+.GetHelpButton {
+    position: relative;
+    top: 100px;
+    right: 32%;
+    width: 20%;
+}
+
+.TestButton {
+    position: relative;
+    top: -10%;
+    right: 40%;
+    width: 15%;
+}
+
+.SearchButton {
+    position: relative;
+    top: -10%;
+    left: 15%;
+    width: 20%;
+}
+
+.searchButtonInHelp {
+    position: relative;
+    /* top: -10%;
+    left: 15%;
+    width: 20%; */
+}
+
+.Button {
+    position: relative;
+    left: 15%;
+    top: -70px;
+    width: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+#RightMargin {
+    width: 100px;
+    height: 10px;
+    float: right;
+}
+
+
+.TopMargin {
+    margin-top: 40px;
+}
+
+#centerSearchBlank {
+    height: 600px;
+    width: 60%;
+    position: relative;
+    left: 20%;
+}
+
+#centerSearchContainer {
+    position: relative;
+    top: 30%;
+}
+
+#centerSearchIcon {
+    float: right;
+    margin-left: 5px;
+    margin-top: 5px;
+}

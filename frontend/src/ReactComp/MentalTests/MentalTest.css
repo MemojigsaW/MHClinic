@@ -1,0 +1,52 @@
+.cardText {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	margin-bottom: 20px;
+	padding: 10px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid LightGray;
+
+	border-style: solid;
+}
+
+.questionText {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	margin-bottom: 10px;
+	padding: 10px;
+	/*padding-bottom: 10px;*/
+
+	border-style: solid;
+}
+
+.explainText {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	margin-bottom: 10px;
+	padding: 10px;
+
+	border-style: solid;
+}
+
+.bottomLine {
+	border-bottom: 1px solid LightGray;
+}
+
+.moreTests {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	margin-bottom: 10px;
+	padding: 10px;
+
+	border-style: solid;
+}
+
+#test2Second {
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
+#test2First {
+	margin-top: 5px;
+	margin-left: 35%;
+}

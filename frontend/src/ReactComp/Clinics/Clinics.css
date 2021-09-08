@@ -1,0 +1,60 @@
+#escape_banner{
+    margin-left: 14%;
+    margin-top: 5%;
+    font-size: 2rem;
+}
+
+#SortBarContainer{
+    width: 100%;
+}
+
+#SortBarWrapper{
+    width:90%;
+    margin: auto;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.CL_SortBartitle {
+    margin: 1%;
+    font-size: 205%;
+
+    flex: 3;
+}
+
+.CL_SortArea{
+    flex: 1;
+
+
+    position: relative;
+}
+
+#CL_SortAreaCenter{
+    height: 50%;
+    width: 50%;
+
+    text-align: center;
+
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#C_Card{
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.C_boxH{
+    flex: 1;
+}

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbfdf5b7-67a4-4eec-b5c3-c25d29b7fc0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/public/image/LandingPage/accept.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/image/LandingPage/bulletin-board-crCatkuro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Actions/APIwrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/ReactComp/Clinics/Clinics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/ReactComp/Shared/LoadingScreen/LS.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1xThbWmLq0JjcMmvmNjXrGwKjR5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alan\Desktop\Projects\MHClinic\New\frontend\public\image" />
+      <recent name="C:\Users\Alan\Desktop\Projects\MHClinic\New\frontend\src\ReactComp\User" />
+      <recent name="C:\Users\Alan\Desktop\Projects\MHClinic\New\frontend\src\ReactComp\MentalTests" />
+      <recent name="C:\Users\Alan\Desktop\Projects\MHClinic\New\frontend\src\ReactComp\MentalPages" />
+      <recent name="C:\Users\Alan\Desktop\Projects\MHClinic\New\frontend\src\ReactComp\MentalPages\Anxiety" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alan\Desktop\Projects\MHClinic\New\frontend\public\image\Topbar" />
+      <recent name="C:\Users\Alan\Desktop\Projects\MHClinic\New\frontend\src\ReactComp\SignUp" />
+      <recent name="C:\Users\Alan\Desktop\Projects\MHClinic\New\frontend\public\image\User" />
+      <recent name="C:\Users\Alan\Desktop\Projects\MHClinic\New\frontend\src\ReactComp\User" />
+      <recent name="C:\Users\Alan\Desktop\Projects\MHClinic\New\frontend\src\ReactComp\MentalTests" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbfdf5b7-67a4-4eec-b5c3-c25d29b7fc0e" name="Default Changelist" comment="" />
+      <created>1630385057650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630385057650</updated>
+      <workItem from="1630385058736" duration="60000" />
+      <workItem from="1630385119583" duration="10623000" />
+      <workItem from="1630403458566" duration="38000" />
+      <workItem from="1630403498877" duration="45071000" />
+      <workItem from="1630533336635" duration="17788000" />
+      <workItem from="1630561013134" duration="94000" />
+      <workItem from="1630561120408" duration="253000" />
+      <workItem from="1630561394548" duration="14047000" />
+      <workItem from="1630618383690" duration="9312000" />
+      <workItem from="1630790227220" duration="13218000" />
+      <workItem from="1630838552208" duration="4346000" />
+      <workItem from="1630869385558" duration="26944000" />
+      <workItem from="1630970447508" duration="22859000" />
+      <workItem from="1631045211706" duration="17128000" />
+      <workItem from="1631085716934" duration="22000" />
+      <workItem from="1631085756143" duration="2732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/New/frontend" />
+      <path value="$PROJECT_DIR$/Old" />
+      <path value="$PROJECT_DIR$/frontend" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1630560227340">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="443" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1630560227340" />
+    <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631006200292">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.872@0.0.1368.872" timestamp="1631006200292" />
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1630403495451">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1630403495451" />
+    <state x="186" y="81" key="SettingsEditor" timestamp="1631085811534">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="81" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1631085811534" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1630833144847">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1630833144847" />
+  </component>
+</project>
